@@ -1,0 +1,23 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.exe.config
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.exe.config
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.exe
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.pdb
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.xml
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.vbprojResolveAssemblyReference.cache
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro_CH8_PP_4.frmPhone.resources
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro_CH8_PP_4.Resources.resources
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.vbproj.GenerateResource.Cache
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.exe
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.xml
+K:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.pdb
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.exe.config
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.exe
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.xml
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.pdb
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.exe
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.pdb
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\bin\Debug\Sulfaro CH8-PP-4.xml
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.vbprojResolveAssemblyReference.cache
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro_CH8_PP_4.frmPhone.resources
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro_CH8_PP_4.Resources.resources
+D:\School\Chapter 8\Sulfaro CH8-PP-4\Sulfaro CH8-PP-4\obj\Debug\Sulfaro CH8-PP-4.vbproj.GenerateResource.Cache

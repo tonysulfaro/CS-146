@@ -1,0 +1,8 @@
+Atanasoff
+Babbage
+Codd
+Dijkstra
+Eckert
+Faggin
+Gates
+Hollerith

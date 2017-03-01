@@ -1,0 +1,12 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 3.2 Demo\bin\Debug\Sulfaro CH 3.2 Demo.exe.config
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\bin\Debug\Sulfaro CH 3.2 Demo.exe.config
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\bin\Debug\Sulfaro CH 3.2 Demo.exe
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\bin\Debug\Sulfaro CH 3.2 Demo.pdb
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\bin\Debug\Sulfaro CH 3.2 Demo.xml
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro CH 3.2 Demo.vbprojResolveAssemblyReference.cache
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro_CH_3._2_Demo.frmCH32Demo.resources
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro_CH_3._2_Demo.Resources.resources
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro CH 3.2 Demo.vbproj.GenerateResource.Cache
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro CH 3.2 Demo.exe
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro CH 3.2 Demo.xml
+D:\Sulfaro CH 3.2 Demo\Sulfaro CH 3.2 Demo\obj\Debug\Sulfaro CH 3.2 Demo.pdb

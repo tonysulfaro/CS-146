@@ -1,0 +1,37 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe.config
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.pdb
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.xml
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbprojResolveAssemblyReference.cache
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.Resources.resources
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.SulfaroCH61Lab.resources
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbproj.GenerateResource.Cache
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.exe
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.xml
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.pdb
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe.config
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.exe
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.xml
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.pdb
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.pdb
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.xml
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbprojResolveAssemblyReference.cache
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.Resources.resources
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.SulfaroCH61Lab.resources
+M:\public_html\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbproj.GenerateResource.Cache
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe.config
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.exe
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.xml
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.pdb
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.pdb
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.xml
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbprojResolveAssemblyReference.cache
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.Resources.resources
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro_CH_6._1_Lab.SulfaroCH61Lab.resources
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.vbproj.GenerateResource.Cache
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\bin\Debug\Sulfaro CH 6.1 Lab.exe.config
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.exe
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.xml
+K:\School\Sulfaro CH 6.1 Lab\Sulfaro CH 6.1 Lab\obj\Debug\Sulfaro CH 6.1 Lab.pdb

@@ -1,0 +1,10 @@
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\bin\Debug\Sulfaro CH2.2 Lab Contact Info.exe.config
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\bin\Debug\Sulfaro CH2.2 Lab Contact Info.exe
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\bin\Debug\Sulfaro CH2.2 Lab Contact Info.pdb
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\bin\Debug\Sulfaro CH2.2 Lab Contact Info.xml
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\WindowsApplication1.Resources.resources
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\Sulfaro CH2.2 Lab Contact Info.vbproj.GenerateResource.Cache
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\Sulfaro CH2.2 Lab Contact Info.exe
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\Sulfaro CH2.2 Lab Contact Info.xml
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\Sulfaro CH2.2 Lab Contact Info.pdb
+D:\Sulfaro CH2.2 Lab Contact Info\Sulfaro CH2.2 Lab Contact Info\obj\Debug\WindowsApplication1.frmCH22Lab.resources

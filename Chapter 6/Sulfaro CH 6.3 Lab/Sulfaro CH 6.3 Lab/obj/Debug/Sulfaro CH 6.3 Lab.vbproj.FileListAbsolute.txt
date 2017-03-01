@@ -1,0 +1,13 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.exe.config
+D:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.exe.config
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.exe.config
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.exe
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.pdb
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\bin\Debug\Sulfaro CH 6.3 Lab.xml
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro CH 6.3 Lab.vbprojResolveAssemblyReference.cache
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro_CH_6._3_Lab.SulfaroCH63Lab.resources
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro_CH_6._3_Lab.Resources.resources
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro CH 6.3 Lab.vbproj.GenerateResource.Cache
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro CH 6.3 Lab.exe
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro CH 6.3 Lab.xml
+K:\School\Sulfaro CH 6.3 Lab\Sulfaro CH 6.3 Lab\obj\Debug\Sulfaro CH 6.3 Lab.pdb

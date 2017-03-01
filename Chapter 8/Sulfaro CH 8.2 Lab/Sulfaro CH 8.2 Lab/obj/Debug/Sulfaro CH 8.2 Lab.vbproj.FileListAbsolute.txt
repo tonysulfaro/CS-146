@@ -1,0 +1,23 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.exe.config
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.exe.config
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.exe.config
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.exe
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.pdb
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.xml
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.vbprojResolveAssemblyReference.cache
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro_CH_8._2_Lab.SulfaroCH82Lab.resources
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro_CH_8._2_Lab.Resources.resources
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.vbproj.GenerateResource.Cache
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.exe
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.xml
+K:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.pdb
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.exe
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.xml
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.pdb
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.exe
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.pdb
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\bin\Debug\Sulfaro CH 8.2 Lab.xml
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.vbprojResolveAssemblyReference.cache
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro_CH_8._2_Lab.SulfaroCH82Lab.resources
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro_CH_8._2_Lab.Resources.resources
+D:\School\Chapter 8\Sulfaro CH 8.2 Lab\Sulfaro CH 8.2 Lab\obj\Debug\Sulfaro CH 8.2 Lab.vbproj.GenerateResource.Cache

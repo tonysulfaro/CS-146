@@ -1,0 +1,37 @@
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe.config
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.pdb
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.xml
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.frmPhone.resources
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.Resources.resources
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.exe
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.xml
+c:\users\tony\documents\visual studio 2015\Projects\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.pdb
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe.config
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.exe
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.xml
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.pdb
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.pdb
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.xml
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbprojResolveAssemblyReference.cache
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.frmPhone.resources
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.Resources.resources
+D:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbproj.GenerateResource.Cache
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe.config
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.exe
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.xml
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.pdb
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbprojResolveAssemblyReference.cache
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.frmPhone.resources
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro_CH7_PP_10.Resources.resources
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.vbproj.GenerateResource.Cache
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.pdb
+K:\School\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.xml
+K:\School\Chapter 7\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\bin\Debug\Sulfaro CH7-PP-10.exe.config
+K:\School\Chapter 7\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.exe
+K:\School\Chapter 7\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.xml
+K:\School\Chapter 7\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\Sulfaro CH7-PP-10\obj\Debug\Sulfaro CH7-PP-10.pdb

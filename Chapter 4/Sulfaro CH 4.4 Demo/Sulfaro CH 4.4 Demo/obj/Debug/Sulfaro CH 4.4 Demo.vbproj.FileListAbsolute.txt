@@ -1,0 +1,2 @@
+C:\Users\amsulfar\AppData\Local\Temporary Projects\Sulfaro CH 4.4 Demo\bin\Debug\Sulfaro CH 4.4 Demo.exe.config
+D:\Sulfaro CH 4.4 Demo\Sulfaro CH 4.4 Demo\bin\Debug\Sulfaro CH 4.4 Demo.exe.config
